@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeWL
-- 👀 I’m interested in Web Apps, UX, and Programmming. Also I do inline skates and rock climbing 🧗‍♂️ in my spare time.
-- 🌱 I’m currently learning [Go](https://go.dev) and refreshing my knowledge in [TypeScript](https://typescript.dev)
+- 👀 I’m interested in Web Apps, UX, and Programmming. Also I do quite a few hobbies (pc gaming 🎮, piano 🎹, singing in a choir🎤, biking and inline skating🚲, and rock climbing 🧗‍♂️) in my spare time.
+- 🌱 I’m currently learning the UI frameworks of [Svelte](https://svelte.dev) and [LitJS](https://lit.dev)
 - 📫 My contact links are on my website, https://GeorgeWL.dev
 - 🚫 I am **NOT** Looking for roles, so **don't** send me job adverts.
 <!---
