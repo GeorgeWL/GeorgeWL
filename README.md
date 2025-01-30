@@ -4,7 +4,7 @@ I'm a software developer, currently working for [Autodesk](https://autodesk.com)
 
 - 👀 I’m interested in Web Apps, UX, and Programmming.
 - I do quite a few hobbies in my spare time. (pc gaming 🎮, piano 🎹, singing/piano in a friends' band🎤, biking and inline skating🚲🛼, tabletop RPGs 🎲⚔ and rock climbing 🧗‍♂️)
-- 🌱 I’m currently learning the UI frameworks of [Svelte](https://svelte.dev) and [VueJS](https://vuejs.org) in my spare time
+- 🌱 I’m currently learning the UI frameworks of [VueJS](https://vuejs.org) in my spare time, and dabbling in writing a CLI tool in [Go](https://go.dev/) with [Cobra](https://cobra.dev/)
 - 📫 My contact links are on my website, https://GeorgeWL.dev
 - 🚫 I am **NOT** Looking for roles, so **don't** send me job adverts.
 
